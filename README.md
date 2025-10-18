@@ -39,7 +39,7 @@ ___
 ### Page 1: High-Level Market View
 
 
-[Data Jobs Dashboard Page 1](//media//Dashboard_media_1.mp4)  
+![Data Jobs Dashboard Page 1](//media//Dashboard_media_1.mp4)  
 
 
 This dashboard serves as a control center for exploring the data job market. It highlights key KPIs such as total job count, median salary, and top job titles, providing a clear snapshot of current market trends at a glance.
@@ -47,7 +47,7 @@ This dashboard serves as a control center for exploring the data job market. It 
 
 ### Page 2: Job Title Drill Through
 
-[Data Jobs Dashboard Page 2](/media/Dashboard_media_2.mp4) 
+![Data Jobs Dashboard Page 2](/media/Dashboard_media_2.mp4) 
 
 This page provides a detailed view for a selected job title. By drilling through from the main dashboard, you can explore specifics such as salary ranges, remote work statistics, leading hiring platforms, and a global distribution of job locations.
 
